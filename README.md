@@ -9,3 +9,5 @@
 <li><p>Authorization classes added in DB like user,admin,moderator. It is now possible to perform operations on the job classes of objects according to authorization.</p></li>
 <li><p>New options initialized for Cache, Transaction and Performance aspects. (Core > Aspects > Autofac)</p></li>
 </ul>
+ 
+ 
